@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.18581224619112 106.85153099791731" width="95.18581224619112" height="106.85153099791731" filter="invert(93%) hue-rotate(180deg)">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round"><g transform="translate(85.18581224619112 22.03271570629068) rotate(0 -37.584644338808666 24.299815870702623)"><path d="M0 0 C0 -2.44, 0 -4.89, -0.01 -11.89 M0 0 C0 -3.81, 0 -7.62, -0.01 -11.89 M-0.01 -11.89 C-24.48 -11.94, -48.95 -11.98, -74.97 -12.03 M-0.01 -11.89 C-15.08 -11.92, -30.16 -11.95, -74.97 -12.03 M-74.97 -12.03 C-75.02 4.34, -75.06 20.72, -75.17 60.63 M-74.97 -12.03 C-75.02 6.57, -75.07 25.18, -75.17 60.63" stroke="#000" stroke-width="4" fill="none"/></g></g><mask/><g stroke-linecap="round" transform="translate(10 79.39364977060677) rotate(0 37.52735651181381 8.728940613655261)"><path d="M0 0 L75.05 0 L75.05 17.46 L0 17.46" stroke="none" stroke-width="0" fill="#ff00"/><path d="M0 0 C20.52 0, 41.04 0, 75.05 0 M0 0 C23.74 0, 47.48 0, 75.05 0 M75.05 0 C75.05 6.17, 75.05 12.35, 75.05 17.46 M75.05 0 C75.05 4.18, 75.05 8.37, 75.05 17.46 M75.05 17.46 C47.24 17.46, 19.42 17.46, 0 17.46 M75.05 17.46 C53.78 17.46, 32.51 17.46, 0 17.46 M0 17.46 C0 12.66, 0 7.87, 0 0 M0 17.46 C0 13.93, 0 10.41, 0 0" stroke="#000" stroke-width="4" fill="none"/></g><g stroke-linecap="round"><g transform="translate(85.0230054420835 38.74150361362218) rotate(0 0.015165622218617614 24.726537817971824)"><path d="M0 0 C0.01 18.96, 0.02 37.92, 0.03 49.45 M0 0 C0.01 14.53, 0.02 29.07, 0.03 49.45" stroke="#000" stroke-width="4" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(31.262211136934468 27.476620566445952) rotate(0 16.113634918525506 -0.05216399965243568)"><path d="M0 0 C6.87 -0.02, 13.74 -0.04, 32.23 -0.1 M0 0 C7.87 -0.03, 15.74 -0.05, 32.23 -0.1" stroke="#3d71b7" stroke-width="4" fill="none"/></g></g><mask/></svg>
